@@ -2,7 +2,7 @@ vagrant-rabbitmq-testbox
 ------------------------
 Simple vagrant test box with rabbitmq, java, nodejs and postgresql.
 
-Dependancies
+Dependencies
 ------------
 
 * Ruby 1.9.2
